@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LoopDeLoop", "LoopDeLoop\LoopDeLoop.vbproj", "{F6EFAADB-5330-493C-BAD8-66408F69E86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EFAADB-5330-493C-BAD8-66408F69E86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EFAADB-5330-493C-BAD8-66408F69E86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EFAADB-5330-493C-BAD8-66408F69E86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EFAADB-5330-493C-BAD8-66408F69E86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

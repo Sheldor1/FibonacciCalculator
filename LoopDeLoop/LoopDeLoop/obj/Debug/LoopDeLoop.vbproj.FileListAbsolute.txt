@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\bin\Debug\LoopDeLoop.exe.config
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\bin\Debug\LoopDeLoop.exe
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\bin\Debug\LoopDeLoop.pdb
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\bin\Debug\LoopDeLoop.xml
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.Form1.resources
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.Resources.resources
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.exe
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.xml
+C:\Users\CCLC\Documents\DominickD\LoopDeLoop\LoopDeLoop\obj\Debug\LoopDeLoop.pdb
